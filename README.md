@@ -52,7 +52,7 @@ We will create a small e-commerce website using Java, SpringBoot, and SQLite to 
 <a id="meet-our-team"></a>
 # :atom_symbol: Meet Our Team
 
-[Aaaliyah Uchendu](./project-plan/resumes/Aaliyah_Resume.md/)
+[Aaliyah Uchendu](./project-plan/resumes/Aaliyah_Resume.md/)
 
 [Meghan Malange](./project-plan/resumes/Meghan_Resume.md/)
 
